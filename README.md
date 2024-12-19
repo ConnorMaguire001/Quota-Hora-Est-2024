@@ -6,7 +6,7 @@ This project seeks to test a new computational method to track diachronic semant
 ## Use
 The files included should be everything necessary to replicated my results. I will include a brief description of all the code but ultimate they should be set up in such a way that should be easy to run locally. Simply download the repo locally and run the code from there. However, please note that the final_corpus.csv must be unzipped and kept in the same directory in order to run the code.
 
-## #LDA_topic_modeling 
+### LDA_topic_modeling 
 This notebook is the Gensim LDA topic model that I used to generate the domains I used for the historical analysis. Unfornately I did not save those models, so they are unable to show the original findings. However, they do demonstrate the methodology of how I built the Civic/Religion 
 The generated lists from the original interations of those models can be found in the Standard Vocab testing list. 
 
