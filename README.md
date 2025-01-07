@@ -14,4 +14,4 @@ This notebook carries bulk of the project. It takes the final generated corpus f
 The target domains, words, as well as the words with highest and lowest similarity scores are all available for futher analysis in this notebook 
 
 ### T-SNE Visualization 
-T-SNE visualization were used during the presentation and help illustrate the relations of the target words embeddings across time.
+As in the original Gonen et al. paper, T-SNE visualization were used during the presentation and help illustrate the relations of the target words embeddings across time. This allows for easier and more immediate understanding of the change in the associated words with the target. In the visualizations, each period is associated with a color(Red-the Late Republic, Purple-The Principate, Blue-Late Antiquity). The vector of the target word in each period is also in green to help further illustrate the shift over time.
